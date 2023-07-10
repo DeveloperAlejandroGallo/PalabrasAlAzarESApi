@@ -1,0 +1,6866 @@
+[
+    {
+        "Id": 1,
+        "Texto": "A",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.911"
+    },
+    {
+        "Id": 2,
+        "Texto": "Abandonar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 3,
+        "Texto": "Abominar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 4,
+        "Texto": "Abril",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 5,
+        "Texto": "Aceite",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 6,
+        "Texto": "Acelga",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 7,
+        "Texto": "Acero",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 8,
+        "Texto": "Acordeon",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 9,
+        "Texto": "Acosar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 10,
+        "Texto": "Acrostico",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 11,
+        "Texto": "Acuarela",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 12,
+        "Texto": "Adiccion",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 13,
+        "Texto": "Adrede",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 14,
+        "Texto": "Aduana",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 15,
+        "Texto": "Adulterio",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 16,
+        "Texto": "Afrodisiaco",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 17,
+        "Texto": "Agasajar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 18,
+        "Texto": "Agenesia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 19,
+        "Texto": "Agiotista",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 20,
+        "Texto": "Agnosticismo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 21,
+        "Texto": "Agosto",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 22,
+        "Texto": "Ahorrar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 23,
+        "Texto": "Aji",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 24,
+        "Texto": "Alabarda",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 25,
+        "Texto": "Alacran",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 26,
+        "Texto": "Alarma",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 27,
+        "Texto": "Alcalde",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 28,
+        "Texto": "Alcancia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 29,
+        "Texto": "Alcatraz",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 30,
+        "Texto": "Alcohol",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 31,
+        "Texto": "Alegoria",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 32,
+        "Texto": "Alferez",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 33,
+        "Texto": "Algoritmo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 34,
+        "Texto": "Alguacil",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 35,
+        "Texto": "Aljamia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 36,
+        "Texto": "Almanaque",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 37,
+        "Texto": "Almirante",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 38,
+        "Texto": "Ambrosia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 39,
+        "Texto": "Amigdala",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 40,
+        "Texto": "Amortiguar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 41,
+        "Texto": "Anaconda",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 42,
+        "Texto": "Anacronismo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 43,
+        "Texto": "Anfitrion",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 44,
+        "Texto": "Anfractuoso",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 45,
+        "Texto": "Anfractuososa",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 46,
+        "Texto": "Anosognosia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 47,
+        "Texto": "Antinomia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 48,
+        "Texto": "Anzuelo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 49,
+        "Texto": "Apostrofe",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 50,
+        "Texto": "Apostrofo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 51,
+        "Texto": "Aquelarre",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 52,
+        "Texto": "Aquilatar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 53,
+        "Texto": "Arandela",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 54,
+        "Texto": "Arbitraria",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 55,
+        "Texto": "Arbitrario",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 56,
+        "Texto": "Argentina",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 57,
+        "Texto": "Argento",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 58,
+        "Texto": "Ariete",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 59,
+        "Texto": "Arlequin",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 60,
+        "Texto": "Armario",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 61,
+        "Texto": "Arpa",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 62,
+        "Texto": "Arpia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 63,
+        "Texto": "Arsenal",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 64,
+        "Texto": "Artilugio",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 65,
+        "Texto": "Arzobispo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 66,
+        "Texto": "Asesino",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 67,
+        "Texto": "Aspaviento",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 68,
+        "Texto": "Astrolabio",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 69,
+        "Texto": "Atlantico",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 70,
+        "Texto": "Auspicio",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 71,
+        "Texto": "Autillo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 72,
+        "Texto": "Azud",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 73,
+        "Texto": "B",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 74,
+        "Texto": "Bacanal",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 75,
+        "Texto": "Bahamas",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 76,
+        "Texto": "Baladi",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 77,
+        "Texto": "Bambalina",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 78,
+        "Texto": "Barbulla",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 79,
+        "Texto": "Bariatrica",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 80,
+        "Texto": "Bariatrico",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 81,
+        "Texto": "Barrica",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 82,
+        "Texto": "Barril",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 83,
+        "Texto": "Bastardo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 84,
+        "Texto": "Bayoneta",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 85,
+        "Texto": "Bergantin",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 86,
+        "Texto": "Biblia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 87,
+        "Texto": "Bigote",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 88,
+        "Texto": "Biombo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 89,
+        "Texto": "Bisagra",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 90,
+        "Texto": "Bisiesto",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 91,
+        "Texto": "Bizarro",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 92,
+        "Texto": "Bochorno",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 93,
+        "Texto": "Botica",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 94,
+        "Texto": "Botica",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 95,
+        "Texto": "Brasil",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 96,
+        "Texto": "Brida",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 97,
+        "Texto": "Brigada",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 98,
+        "Texto": "Broquel",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 99,
+        "Texto": "Bruma",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 100,
+        "Texto": "Bucolico",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 101,
+        "Texto": "Buhardilla",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 102,
+        "Texto": "Bujia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 103,
+        "Texto": "Bulimia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 104,
+        "Texto": "Burguesia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 105,
+        "Texto": "Busilis",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 106,
+        "Texto": "C",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 107,
+        "Texto": "Cadalso",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 108,
+        "Texto": "Cadaver",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 109,
+        "Texto": "Calendario",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 110,
+        "Texto": "Calipigia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 111,
+        "Texto": "Calipigio",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 112,
+        "Texto": "Calzar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 113,
+        "Texto": "Camaron",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 114,
+        "Texto": "Cameo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 115,
+        "Texto": "Camisa",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 116,
+        "Texto": "Camorra",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 117,
+        "Texto": "Camuflaje",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 118,
+        "Texto": "Can",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 119,
+        "Texto": "Canario",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 120,
+        "Texto": "Candidato",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 121,
+        "Texto": "Cansar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 122,
+        "Texto": "Capilla",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 123,
+        "Texto": "Carabina",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 124,
+        "Texto": "Carambola",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 125,
+        "Texto": "Cariatide",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 126,
+        "Texto": "Carillon",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 127,
+        "Texto": "Carioca",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 128,
+        "Texto": "Carminativo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 129,
+        "Texto": "Carnero",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 130,
+        "Texto": "Carotida",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 131,
+        "Texto": "Carpetovetonica",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 132,
+        "Texto": "Carpetovetonico",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 133,
+        "Texto": "Carpintero",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 134,
+        "Texto": "Casa",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 135,
+        "Texto": "Catacresis",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 136,
+        "Texto": "Catapulta",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 137,
+        "Texto": "Catolico",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 138,
+        "Texto": "Cañamo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 139,
+        "Texto": "Celta",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 140,
+        "Texto": "Censor",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 141,
+        "Texto": "Ceremonia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 142,
+        "Texto": "Chachara",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 143,
+        "Texto": "Chambergo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 144,
+        "Texto": "Charque",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 145,
+        "Texto": "Charqui",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 146,
+        "Texto": "Chic",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 147,
+        "Texto": "Chofer",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 148,
+        "Texto": "Chusma",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 149,
+        "Texto": "Ciatica",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 150,
+        "Texto": "Cibernetica",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 151,
+        "Texto": "Ciclon",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 152,
+        "Texto": "Cilicio",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 153,
+        "Texto": "Cimiento",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 154,
+        "Texto": "Cimitarra",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 155,
+        "Texto": "Circadiano",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 156,
+        "Texto": "Cirrosis",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 157,
+        "Texto": "Cirujano",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 158,
+        "Texto": "Cisma",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 159,
+        "Texto": "Clandestino",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 160,
+        "Texto": "Clerigo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 161,
+        "Texto": "Cliente",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 162,
+        "Texto": "Clinica",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 163,
+        "Texto": "Clon",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 164,
+        "Texto": "Cloro",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 165,
+        "Texto": "Cobalto",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 166,
+        "Texto": "Cobre",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 167,
+        "Texto": "Coche",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 168,
+        "Texto": "Coctel",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 169,
+        "Texto": "Cofin",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 170,
+        "Texto": "Colera",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 171,
+        "Texto": "Colon",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 172,
+        "Texto": "Colonia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 173,
+        "Texto": "Comedia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 174,
+        "Texto": "Comentario",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 175,
+        "Texto": "Comer",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 176,
+        "Texto": "Complice",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 177,
+        "Texto": "Conde",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 178,
+        "Texto": "Condestable",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 179,
+        "Texto": "Contradanza",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 180,
+        "Texto": "Convento",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 181,
+        "Texto": "Copacabana",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 182,
+        "Texto": "Coqueta",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 183,
+        "Texto": "Coqueto",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 184,
+        "Texto": "Coraje",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 185,
+        "Texto": "Cordoban",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 186,
+        "Texto": "Corona",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 187,
+        "Texto": "Correo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 188,
+        "Texto": "Covidiota",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 189,
+        "Texto": "Crater",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 190,
+        "Texto": "Criselefantino",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 191,
+        "Texto": "Crisis",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 192,
+        "Texto": "Cristiano",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 193,
+        "Texto": "Cuatrero",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 194,
+        "Texto": "Cubierto",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 195,
+        "Texto": "Cucaracha",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 196,
+        "Texto": "Cultura",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 197,
+        "Texto": "D",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 198,
+        "Texto": "Damajuana",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 199,
+        "Texto": "Debacle",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 200,
+        "Texto": "Defenestrar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 201,
+        "Texto": "Deliberar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 202,
+        "Texto": "Democracia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 203,
+        "Texto": "Demonio",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 204,
+        "Texto": "Deporte",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 205,
+        "Texto": "Derivar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 206,
+        "Texto": "Desflorar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 207,
+        "Texto": "Detalle",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 208,
+        "Texto": "Detective",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 209,
+        "Texto": "Devoto, ta",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 210,
+        "Texto": "Diacritico",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 211,
+        "Texto": "Dialelo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 212,
+        "Texto": "Dicha",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 213,
+        "Texto": "Difteria",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 214,
+        "Texto": "Dilapidar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 215,
+        "Texto": "Dinamita",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 216,
+        "Texto": "Dinero",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 217,
+        "Texto": "Diploma",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 218,
+        "Texto": "Discipulo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 219,
+        "Texto": "Discrepar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 220,
+        "Texto": "Disculpa",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 221,
+        "Texto": "Dispepsia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 222,
+        "Texto": "Dolar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 223,
+        "Texto": "Domestico",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 224,
+        "Texto": "Draga",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 225,
+        "Texto": "Droga",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 226,
+        "Texto": "Druida",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 227,
+        "Texto": "Duelo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 228,
+        "Texto": "Duende",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 229,
+        "Texto": "Duodeno",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 230,
+        "Texto": "E",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 231,
+        "Texto": "Eclipse",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 232,
+        "Texto": "Economia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 233,
+        "Texto": "Ecuador",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 234,
+        "Texto": "Edecan",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 235,
+        "Texto": "Edredon",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 236,
+        "Texto": "Electricidad",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 237,
+        "Texto": "Elefante",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 238,
+        "Texto": "Elegante",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 239,
+        "Texto": "Elenco",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 240,
+        "Texto": "Eliminar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 241,
+        "Texto": "Elipse",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 242,
+        "Texto": "Elite",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 243,
+        "Texto": "Elixir",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 244,
+        "Texto": "Emocion",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 245,
+        "Texto": "Empatar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 246,
+        "Texto": "Empatia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 247,
+        "Texto": "Emperifollada",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 248,
+        "Texto": "Emperifollado",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 249,
+        "Texto": "Encerrar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 250,
+        "Texto": "Encomio",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 251,
+        "Texto": "Endriago",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 252,
+        "Texto": "Energumeno",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 253,
+        "Texto": "Enero",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 254,
+        "Texto": "Enfurruñado",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 255,
+        "Texto": "Ensayo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 256,
+        "Texto": "Entretenimiento",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 257,
+        "Texto": "Entrevero",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 258,
+        "Texto": "Eon",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 259,
+        "Texto": "Epanadiplosis",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 260,
+        "Texto": "Epiceno",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 261,
+        "Texto": "Epidemia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 262,
+        "Texto": "Epigrama",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 263,
+        "Texto": "Eponimo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 264,
+        "Texto": "Equidna",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 265,
+        "Texto": "Ergastula",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 266,
+        "Texto": "Eritrocito",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 267,
+        "Texto": "Erotico",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 268,
+        "Texto": "Esbirro",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 269,
+        "Texto": "Escabroso",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 270,
+        "Texto": "Escafoides",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 271,
+        "Texto": "Escamoles",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 272,
+        "Texto": "Escamotear",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 273,
+        "Texto": "Escaparate",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 274,
+        "Texto": "Escarabajo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 275,
+        "Texto": "Escarlata",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 276,
+        "Texto": "Escatologia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 277,
+        "Texto": "Escorbuto",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 278,
+        "Texto": "Esfenoides",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 279,
+        "Texto": "Esguince",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 280,
+        "Texto": "Esmalte",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 281,
+        "Texto": "Esplin",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 282,
+        "Texto": "Espresso",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 283,
+        "Texto": "Estafar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 284,
+        "Texto": "Estantigua",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 285,
+        "Texto": "Esteganalisis",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 286,
+        "Texto": "Esteril",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 287,
+        "Texto": "Esteril",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 288,
+        "Texto": "Esterlina",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 289,
+        "Texto": "Estetica",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 290,
+        "Texto": "Estilo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 291,
+        "Texto": "Estimulo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 292,
+        "Texto": "Estoico",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 293,
+        "Texto": "Estraperlo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 294,
+        "Texto": "Estratosfera",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 295,
+        "Texto": "Eufemismo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 296,
+        "Texto": "Ex-preso",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 297,
+        "Texto": "Exorcismo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 298,
+        "Texto": "Exotico",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 299,
+        "Texto": "Expedicion",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 300,
+        "Texto": "Explicar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 301,
+        "Texto": "Expres",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 302,
+        "Texto": "Expreso",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 303,
+        "Texto": "Expresso",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 304,
+        "Texto": "Exquisito",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 305,
+        "Texto": "Extranjero",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 306,
+        "Texto": "F",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 307,
+        "Texto": "Fabuloso",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 308,
+        "Texto": "Falso",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 309,
+        "Texto": "Faquir",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 310,
+        "Texto": "Faquir",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 311,
+        "Texto": "Faro",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 312,
+        "Texto": "Farsante",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 313,
+        "Texto": "Fascismo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 314,
+        "Texto": "Favela",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 315,
+        "Texto": "Febrero",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 316,
+        "Texto": "Feijoada",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 317,
+        "Texto": "Feretro",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 318,
+        "Texto": "Fetiche",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 319,
+        "Texto": "Fettuccine",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 320,
+        "Texto": "Fideo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 321,
+        "Texto": "Filatelia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 322,
+        "Texto": "Filologia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 323,
+        "Texto": "Fiscal",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 324,
+        "Texto": "Fisco",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 325,
+        "Texto": "Fisgar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 326,
+        "Texto": "Flamenco",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 327,
+        "Texto": "Flecha",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 328,
+        "Texto": "Flema",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 329,
+        "Texto": "Focal",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 330,
+        "Texto": "Foco",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 331,
+        "Texto": "Folclore",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 332,
+        "Texto": "Fornicar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 333,
+        "Texto": "Foxtrot",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 334,
+        "Texto": "Fracaso",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 335,
+        "Texto": "Franela",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 336,
+        "Texto": "Fuga",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 337,
+        "Texto": "Furia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 338,
+        "Texto": "Fusil",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 339,
+        "Texto": "G",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 340,
+        "Texto": "Gabinete",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 341,
+        "Texto": "Gaceta",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 342,
+        "Texto": "Galibo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 343,
+        "Texto": "Galicursi",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 344,
+        "Texto": "Gallo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 345,
+        "Texto": "Gama",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 346,
+        "Texto": "Ganar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 347,
+        "Texto": "Ganas",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 348,
+        "Texto": "Garaje",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 349,
+        "Texto": "Garantia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 350,
+        "Texto": "Garrafal",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 351,
+        "Texto": "Garrapata",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 352,
+        "Texto": "Gastronomia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 353,
+        "Texto": "Gay",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 354,
+        "Texto": "Gazapo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 355,
+        "Texto": "Gaznapiro",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 356,
+        "Texto": "Gendarme",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 357,
+        "Texto": "Genetica",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 358,
+        "Texto": "Genio",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 359,
+        "Texto": "Geografia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 360,
+        "Texto": "Geranio",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 361,
+        "Texto": "Gerbera",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 362,
+        "Texto": "Gerenuc",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 363,
+        "Texto": "Gnomico",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 364,
+        "Texto": "Gnomo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 365,
+        "Texto": "Gorila",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 366,
+        "Texto": "Gospel",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 367,
+        "Texto": "Gozo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 368,
+        "Texto": "Granate",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 369,
+        "Texto": "Gringo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 370,
+        "Texto": "Grito",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 371,
+        "Texto": "Grulla",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 372,
+        "Texto": "Guadaña",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 373,
+        "Texto": "Guapo, pa",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 374,
+        "Texto": "Guarida",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 375,
+        "Texto": "Guatemala",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 376,
+        "Texto": "H",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 377,
+        "Texto": "Hambre",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 378,
+        "Texto": "Hamburguesa",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 379,
+        "Texto": "Hapax",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 380,
+        "Texto": "Haren",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 381,
+        "Texto": "Hebilla",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 382,
+        "Texto": "Helio",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 383,
+        "Texto": "Hemorragia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 384,
+        "Texto": "Heroe",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 385,
+        "Texto": "Herpes",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 386,
+        "Texto": "Higado",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 387,
+        "Texto": "Himeneo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 388,
+        "Texto": "Hipopotamo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 389,
+        "Texto": "Hisopo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 390,
+        "Texto": "Hito",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 391,
+        "Texto": "Hocico",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 392,
+        "Texto": "Honor",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 393,
+        "Texto": "Humus",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 394,
+        "Texto": "Huri",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 395,
+        "Texto": "I",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 396,
+        "Texto": "Idilio",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 397,
+        "Texto": "Ilusion",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 398,
+        "Texto": "Iman",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 399,
+        "Texto": "Imbecil",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 400,
+        "Texto": "Impresionismo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 401,
+        "Texto": "Inaugurar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 402,
+        "Texto": "Incolume",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 403,
+        "Texto": "Inconsutil",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 404,
+        "Texto": "Incunable",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 405,
+        "Texto": "Indigena",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 406,
+        "Texto": "Indigo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 407,
+        "Texto": "Inexorable",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 408,
+        "Texto": "Infancia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 409,
+        "Texto": "Infarto",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 410,
+        "Texto": "Influenza",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 411,
+        "Texto": "Ingenio",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 412,
+        "Texto": "Inmolar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 413,
+        "Texto": "Inmunidad",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 414,
+        "Texto": "Inocente",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 415,
+        "Texto": "Inquilino",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 416,
+        "Texto": "Insigne",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 417,
+        "Texto": "Instinto",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 418,
+        "Texto": "Intuicion",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 419,
+        "Texto": "Investigar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 420,
+        "Texto": "Islas Malvinas",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 421,
+        "Texto": "J",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 422,
+        "Texto": "Jabon",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 423,
+        "Texto": "Jamon",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 424,
+        "Texto": "Jaqueca",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 425,
+        "Texto": "Jardin",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 426,
+        "Texto": "Jengibre",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 427,
+        "Texto": "Jeringa",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 428,
+        "Texto": "Jinete",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 429,
+        "Texto": "Jitanjafora",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 430,
+        "Texto": "Jovial",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 431,
+        "Texto": "Judio",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 432,
+        "Texto": "Juego",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 433,
+        "Texto": "Junio",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 434,
+        "Texto": "K",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 435,
+        "Texto": "Kermes",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 436,
+        "Texto": "Kiosco",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 437,
+        "Texto": "L",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 438,
+        "Texto": "Laberinto",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 439,
+        "Texto": "Laca",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 440,
+        "Texto": "Ladron",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 441,
+        "Texto": "Lagarto",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 442,
+        "Texto": "Larva",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 443,
+        "Texto": "Latino",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 444,
+        "Texto": "Lechuga",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 445,
+        "Texto": "Leitmotiv",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 446,
+        "Texto": "Lempira",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 447,
+        "Texto": "Letra",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 448,
+        "Texto": "Leyenda",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 449,
+        "Texto": "Libelula",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 450,
+        "Texto": "Libertinaje",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 451,
+        "Texto": "Libia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 452,
+        "Texto": "Libreto",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 453,
+        "Texto": "Liceo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 454,
+        "Texto": "Limitrofe",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 455,
+        "Texto": "Linchar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 456,
+        "Texto": "Litera",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 457,
+        "Texto": "Llama",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 458,
+        "Texto": "Llorar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 459,
+        "Texto": "Lona",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 460,
+        "Texto": "Loteria",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 461,
+        "Texto": "Lubrican",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 462,
+        "Texto": "Lucifer",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 463,
+        "Texto": "Lujuria",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 464,
+        "Texto": "Luna",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 465,
+        "Texto": "Luto",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 466,
+        "Texto": "M",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 467,
+        "Texto": "Macadan",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 468,
+        "Texto": "Magenta",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 469,
+        "Texto": "Magnetismo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 470,
+        "Texto": "Magnolia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 471,
+        "Texto": "Mago",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 472,
+        "Texto": "Maguey",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 473,
+        "Texto": "Majada",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 474,
+        "Texto": "Malandrin",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 475,
+        "Texto": "Malvinas",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 476,
+        "Texto": "Mambo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 477,
+        "Texto": "Mandinga",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 478,
+        "Texto": "Manglar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 479,
+        "Texto": "Mano",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 480,
+        "Texto": "Margarita",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 481,
+        "Texto": "Mariguana",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 482,
+        "Texto": "Marihuana",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 483,
+        "Texto": "Marioneta",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 484,
+        "Texto": "Mariscal",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 485,
+        "Texto": "Marrano",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 486,
+        "Texto": "Martir",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 487,
+        "Texto": "Marzo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 488,
+        "Texto": "Mascara",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 489,
+        "Texto": "Masoneria",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 490,
+        "Texto": "Matricula",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 491,
+        "Texto": "Mayolica",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 492,
+        "Texto": "Mazmorra",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 493,
+        "Texto": "Medico",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 494,
+        "Texto": "Melodia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 495,
+        "Texto": "Menaje",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 496,
+        "Texto": "Mentir",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 497,
+        "Texto": "Mentor",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 498,
+        "Texto": "Menu",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 499,
+        "Texto": "Mequetrefe",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 500,
+        "Texto": "Mercado",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 501,
+        "Texto": "Mercurio",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 502,
+        "Texto": "Merengue",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 503,
+        "Texto": "Merienda",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 504,
+        "Texto": "Metafora",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 505,
+        "Texto": "Meteoro",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 506,
+        "Texto": "Mexico",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 507,
+        "Texto": "Mientras",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 508,
+        "Texto": "Milonga",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 509,
+        "Texto": "Mimbre",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 510,
+        "Texto": "Mimo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 511,
+        "Texto": "Miniatura",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 512,
+        "Texto": "Ministro",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 513,
+        "Texto": "Mismo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 514,
+        "Texto": "Misterio",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 515,
+        "Texto": "Mitra",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 516,
+        "Texto": "Mitridatismo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 517,
+        "Texto": "Mojigato",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 518,
+        "Texto": "Mondongo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 519,
+        "Texto": "Monzon",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 520,
+        "Texto": "Moraleja",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 521,
+        "Texto": "Moreton",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 522,
+        "Texto": "Morfina",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 523,
+        "Texto": "Morganatico",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 524,
+        "Texto": "Morgue",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 525,
+        "Texto": "Morlaco",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 526,
+        "Texto": "Mormazo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 527,
+        "Texto": "Mosquetero",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 528,
+        "Texto": "Mucama",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 529,
+        "Texto": "Muelle",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 530,
+        "Texto": "Mujer",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 531,
+        "Texto": "Museo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 532,
+        "Texto": "N",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 533,
+        "Texto": "Narcisismo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 534,
+        "Texto": "Narval",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 535,
+        "Texto": "Navaja",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 536,
+        "Texto": "Navidad",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 537,
+        "Texto": "Nazi",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 538,
+        "Texto": "Nefasto",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 539,
+        "Texto": "Negacionismo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 540,
+        "Texto": "Negocio",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 541,
+        "Texto": "Neurona",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 542,
+        "Texto": "Nicotina",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 543,
+        "Texto": "Nigromancia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 544,
+        "Texto": "Nimio",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 545,
+        "Texto": "Nomeolvides",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 546,
+        "Texto": "Novela",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 547,
+        "Texto": "Nudo gordiano",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 548,
+        "Texto": "O",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 549,
+        "Texto": "Obedecer",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 550,
+        "Texto": "Oboe",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 551,
+        "Texto": "Obsceno",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 552,
+        "Texto": "Obstetricia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 553,
+        "Texto": "Obtuso",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 554,
+        "Texto": "Obus",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 555,
+        "Texto": "Oceano",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 556,
+        "Texto": "Octubre",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 557,
+        "Texto": "Oficio",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 558,
+        "Texto": "Ogro",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 559,
+        "Texto": "Oleaginoso",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 560,
+        "Texto": "Oleoducto",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 561,
+        "Texto": "Olfato",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 562,
+        "Texto": "Olvido",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 563,
+        "Texto": "Ombligo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 564,
+        "Texto": "Ominoso",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 565,
+        "Texto": "Omnibus",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 566,
+        "Texto": "Onice",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 567,
+        "Texto": "Onix",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 568,
+        "Texto": "Onomatopeya",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 569,
+        "Texto": "Opio",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 570,
+        "Texto": "Optimismo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 571,
+        "Texto": "Oraculo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 572,
+        "Texto": "Orangutan",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 573,
+        "Texto": "Origen",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 574,
+        "Texto": "Orin",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 575,
+        "Texto": "Ornitorrinco",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 576,
+        "Texto": "Oropendola",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 577,
+        "Texto": "Orquidea",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 578,
+        "Texto": "Ovacion",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 579,
+        "Texto": "P",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 580,
+        "Texto": "Pagina",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 581,
+        "Texto": "Pagoda",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 582,
+        "Texto": "Palacio",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 583,
+        "Texto": "Paladio",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 584,
+        "Texto": "Palurdo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 585,
+        "Texto": "Panegirico",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 586,
+        "Texto": "Panorama",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 587,
+        "Texto": "Pantalon",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 588,
+        "Texto": "Panteon",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 589,
+        "Texto": "Papa Noel",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 590,
+        "Texto": "Parafina",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 591,
+        "Texto": "Paralelo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 592,
+        "Texto": "Paramecio",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 593,
+        "Texto": "Parangon",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 594,
+        "Texto": "Paranoia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 595,
+        "Texto": "Parasito",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 596,
+        "Texto": "Pariente",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 597,
+        "Texto": "Paroxismo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 598,
+        "Texto": "Parquet",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 599,
+        "Texto": "Parroco",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 600,
+        "Texto": "Parsec",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 601,
+        "Texto": "Parsec",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 602,
+        "Texto": "Partitura",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 603,
+        "Texto": "Pascua",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 604,
+        "Texto": "Pasionaria",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 605,
+        "Texto": "Pasteurizacion",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 606,
+        "Texto": "Patibulo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 607,
+        "Texto": "Patraña",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 608,
+        "Texto": "Pañol",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 609,
+        "Texto": "Pecuario",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 610,
+        "Texto": "Pedazo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 611,
+        "Texto": "Pedigri",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 612,
+        "Texto": "Pegar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 613,
+        "Texto": "Pelicula",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 614,
+        "Texto": "Penacho",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 615,
+        "Texto": "Pendulo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 616,
+        "Texto": "Pera",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 617,
+        "Texto": "Perdiz",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 618,
+        "Texto": "Peregrino",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 619,
+        "Texto": "Periodo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 620,
+        "Texto": "Peripecia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 621,
+        "Texto": "Perone",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 622,
+        "Texto": "Perpetrar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 623,
+        "Texto": "Petroleo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 624,
+        "Texto": "Pezuña",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 625,
+        "Texto": "Piara",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 626,
+        "Texto": "Picaro",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 627,
+        "Texto": "Pigmento",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 628,
+        "Texto": "Pinacoteca",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 629,
+        "Texto": "Pindarico",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 630,
+        "Texto": "Pineal",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 631,
+        "Texto": "Pinzon",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 632,
+        "Texto": "Piquete",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 633,
+        "Texto": "Piramide",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 634,
+        "Texto": "Piropo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 635,
+        "Texto": "Pirrico",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 636,
+        "Texto": "Piscina",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 637,
+        "Texto": "Pista",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 638,
+        "Texto": "Piston",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 639,
+        "Texto": "Plagio",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 640,
+        "Texto": "Planeta",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 641,
+        "Texto": "Plastico",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 642,
+        "Texto": "Pleyade",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 643,
+        "Texto": "Plutocracia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 644,
+        "Texto": "Polimatia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 645,
+        "Texto": "Polipo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 646,
+        "Texto": "Politica",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 647,
+        "Texto": "Pollino",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 648,
+        "Texto": "Polonia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 649,
+        "Texto": "Pomada",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 650,
+        "Texto": "Pompa",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 651,
+        "Texto": "Ponche",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 652,
+        "Texto": "Pontifice",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 653,
+        "Texto": "Popelina",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 654,
+        "Texto": "Pordiosero",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 655,
+        "Texto": "Postergar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 656,
+        "Texto": "Potasio",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 657,
+        "Texto": "Prebenda",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 658,
+        "Texto": "Presbitero",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 659,
+        "Texto": "Prestigio",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 660,
+        "Texto": "Priapismo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 661,
+        "Texto": "Pro",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 662,
+        "Texto": "Procrastinar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 663,
+        "Texto": "Programa",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 664,
+        "Texto": "Proletario",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 665,
+        "Texto": "Propoleo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 666,
+        "Texto": "Protocolo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 667,
+        "Texto": "Proxeneta",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 668,
+        "Texto": "Psicologia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 669,
+        "Texto": "Psicosomatico",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 670,
+        "Texto": "Pterodactilo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 671,
+        "Texto": "Puerperio",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 672,
+        "Texto": "Pupitre",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 673,
+        "Texto": "Purpura",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 674,
+        "Texto": "Q",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 675,
+        "Texto": "Quark",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 676,
+        "Texto": "Quinina",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 677,
+        "Texto": "Quintaesencia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 678,
+        "Texto": "Quipu",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 679,
+        "Texto": "Quiropractica",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 680,
+        "Texto": "Quiropraxia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 681,
+        "Texto": "R",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 682,
+        "Texto": "Radar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 683,
+        "Texto": "Radio",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 684,
+        "Texto": "Raglan",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 685,
+        "Texto": "Raiz",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 686,
+        "Texto": "Rambla",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 687,
+        "Texto": "Ramera",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 688,
+        "Texto": "Ramera",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 689,
+        "Texto": "Rancho",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 690,
+        "Texto": "Rapsodia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 691,
+        "Texto": "Raza",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 692,
+        "Texto": "Rebuznar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 693,
+        "Texto": "Recalcitrante",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 694,
+        "Texto": "Recluso",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 695,
+        "Texto": "Record",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 696,
+        "Texto": "Refunfuñar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 697,
+        "Texto": "Regañar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 698,
+        "Texto": "Reloj",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 699,
+        "Texto": "Remoto",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 700,
+        "Texto": "Remuneracion",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 701,
+        "Texto": "Reservar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 702,
+        "Texto": "Resiliencia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 703,
+        "Texto": "Restaurante",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 704,
+        "Texto": "Retaliacion",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 705,
+        "Texto": "Reticencia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 706,
+        "Texto": "Retorica",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 707,
+        "Texto": "Retruecano",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 708,
+        "Texto": "Rey",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 709,
+        "Texto": "Rezar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 710,
+        "Texto": "Robar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 711,
+        "Texto": "Robot",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 712,
+        "Texto": "Rococo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 713,
+        "Texto": "Rosario",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 714,
+        "Texto": "Rotiseria",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 715,
+        "Texto": "Rubeola",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 716,
+        "Texto": "Rubeola",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 717,
+        "Texto": "Rubrica",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 718,
+        "Texto": "Rueda",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 719,
+        "Texto": "Ruleta",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 720,
+        "Texto": "Rupestre",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 721,
+        "Texto": "Rupia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 722,
+        "Texto": "S",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 723,
+        "Texto": "Sagrado",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 724,
+        "Texto": "Sainete",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 725,
+        "Texto": "Salario",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 726,
+        "Texto": "Samba",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 727,
+        "Texto": "Sandia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 728,
+        "Texto": "Sandwich",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 729,
+        "Texto": "Santabarbara",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 730,
+        "Texto": "Sarao",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 731,
+        "Texto": "Sarcasmo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 732,
+        "Texto": "Sartorio",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 733,
+        "Texto": "Satelite",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 734,
+        "Texto": "Sedan",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 735,
+        "Texto": "Seguridad",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 736,
+        "Texto": "Semantica",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 737,
+        "Texto": "Septiembre",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 738,
+        "Texto": "Ser",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 739,
+        "Texto": "Serpentina",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 740,
+        "Texto": "Setiembre",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 741,
+        "Texto": "Seudonimo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 742,
+        "Texto": "Sexagesimal",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 743,
+        "Texto": "Sibarita",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 744,
+        "Texto": "Sicario",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 745,
+        "Texto": "Sifilis",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 746,
+        "Texto": "Silencio",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 747,
+        "Texto": "Silfide",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 748,
+        "Texto": "Siniestro",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 749,
+        "Texto": "Sirena",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 750,
+        "Texto": "Sismo / seismo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 751,
+        "Texto": "Sodomia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 752,
+        "Texto": "Sofisticado",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 753,
+        "Texto": "Sofocar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 754,
+        "Texto": "Solidaridad",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 755,
+        "Texto": "Solsticio",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 756,
+        "Texto": "Sororidad",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 757,
+        "Texto": "Sosia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 758,
+        "Texto": "Sosias",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 759,
+        "Texto": "Sosias",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 760,
+        "Texto": "Sota",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 761,
+        "Texto": "Subasta",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 762,
+        "Texto": "T",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 763,
+        "Texto": "Taberna",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 764,
+        "Texto": "Tafetan",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 765,
+        "Texto": "Tahona",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 766,
+        "Texto": "Talento",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 767,
+        "Texto": "Tandem",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 768,
+        "Texto": "Tarjeta",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 769,
+        "Texto": "Tartufo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 770,
+        "Texto": "Tatuaje",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 771,
+        "Texto": "Tautologia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 772,
+        "Texto": "Taxidermia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 773,
+        "Texto": "Taximetro",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 774,
+        "Texto": "Tañer",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 775,
+        "Texto": "Temprano",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 776,
+        "Texto": "Tenis",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 777,
+        "Texto": "Terrorismo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 778,
+        "Texto": "Testarudo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 779,
+        "Texto": "Testigo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 780,
+        "Texto": "Tifon",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 781,
+        "Texto": "Tila",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 782,
+        "Texto": "Tilia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 783,
+        "Texto": "Tilo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 784,
+        "Texto": "Timpano",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 785,
+        "Texto": "Tinnitus",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 786,
+        "Texto": "Tiovivo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 787,
+        "Texto": "Tiquismiquis",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 788,
+        "Texto": "Tirabuzon",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 789,
+        "Texto": "Tiroides",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 790,
+        "Texto": "Titan",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 791,
+        "Texto": "Toalla",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 792,
+        "Texto": "Tomate",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 793,
+        "Texto": "Toronja",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 794,
+        "Texto": "Tos",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 795,
+        "Texto": "Totem",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 796,
+        "Texto": "Trabajo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 797,
+        "Texto": "Tramite",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 798,
+        "Texto": "Tramoya",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 799,
+        "Texto": "Trapecio",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 800,
+        "Texto": "Trapiche",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 801,
+        "Texto": "Tregua",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 802,
+        "Texto": "Triaje",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 803,
+        "Texto": "Tribu",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 804,
+        "Texto": "Trifulca",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 805,
+        "Texto": "Tripa",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 806,
+        "Texto": "Triunfo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 807,
+        "Texto": "Trocanter",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 808,
+        "Texto": "Troglodita",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 809,
+        "Texto": "Trombocito",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 810,
+        "Texto": "U",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 811,
+        "Texto": "Ufanar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 812,
+        "Texto": "Ultracorreccion",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 813,
+        "Texto": "V",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 814,
+        "Texto": "Vacuna",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 815,
+        "Texto": "Valladolid",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 816,
+        "Texto": "Vampiro",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 817,
+        "Texto": "Vasallo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 818,
+        "Texto": "Vaselina",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 819,
+        "Texto": "Vecino",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 820,
+        "Texto": "Vedete",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 821,
+        "Texto": "Veneno",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 822,
+        "Texto": "Ventrilocuo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 823,
+        "Texto": "Verbena",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 824,
+        "Texto": "Vereda",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 825,
+        "Texto": "Veronal",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 826,
+        "Texto": "Veto",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 827,
+        "Texto": "Viatico",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 828,
+        "Texto": "Vicario",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 829,
+        "Texto": "Victoria",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 830,
+        "Texto": "Vinilo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 831,
+        "Texto": "Vino",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 832,
+        "Texto": "Violeta",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 833,
+        "Texto": "Violin",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 834,
+        "Texto": "Virus",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 835,
+        "Texto": "Vitamina",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 836,
+        "Texto": "Vitolfilia",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 837,
+        "Texto": "Vituperar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 838,
+        "Texto": "Viuda",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 839,
+        "Texto": "Vocacion",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 840,
+        "Texto": "Vodevil",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 841,
+        "Texto": "Vudu",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 842,
+        "Texto": "W",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 843,
+        "Texto": "Whisky",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 844,
+        "Texto": "X",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 845,
+        "Texto": "Y",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 846,
+        "Texto": "Yanqui",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 847,
+        "Texto": "Yate",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 848,
+        "Texto": "Yelmo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 849,
+        "Texto": "Yoga",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 850,
+        "Texto": "Yugular",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 851,
+        "Texto": "Z",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 852,
+        "Texto": "Zafarrancho",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 853,
+        "Texto": "Zafra",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 854,
+        "Texto": "Zahon",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 855,
+        "Texto": "Zalamero",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 856,
+        "Texto": "Zanahoria",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 857,
+        "Texto": "Zar",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    },
+    {
+        "Id": 858,
+        "Texto": "Zonzo",
+        "Definicion": "",
+        "Idioma": 0,
+        "Revisada": false,
+        "FechaActualizacion": "2023-07-10 02:37:56.916"
+    }
+]
