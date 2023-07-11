@@ -50,3 +50,4 @@ C:\Git\C#\PalabrasAlAzarESApi\bin\Debug\net6.0\Grpc.Net.Common.dll
 C:\Git\C#\PalabrasAlAzarESApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Git\C#\PalabrasAlAzarESApi\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Git\C#\PalabrasAlAzarESApi\bin\Debug\net6.0\System.Linq.Async.dll
+C:\Git\C#\PalabrasAlAzarESApi\bin\Debug\net6.0\Data\palabras.json

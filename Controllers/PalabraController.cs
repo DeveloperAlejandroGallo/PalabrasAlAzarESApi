@@ -16,7 +16,7 @@ namespace PalabrasAlAzarESApi.Controllers
             _palabraService = palabraService;
         }
 
-        [HttpGet("Todas")]
+        [HttpGet("todas")]
         public IActionResult GetPalabras()
         {
             return Ok(_palabraService.GetPalabrasJson());
@@ -36,7 +36,7 @@ namespace PalabrasAlAzarESApi.Controllers
         }
 
 
-        [HttpGet("PalabraAlAzar")]
+        [HttpGet("alAzar")]
         public IActionResult GetPalabraAlAzar() 
         {
             var palabra = _palabraService.GetPalabraAlAzar();
