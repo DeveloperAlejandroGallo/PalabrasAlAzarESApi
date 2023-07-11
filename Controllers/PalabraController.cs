@@ -47,12 +47,7 @@ namespace PalabrasAlAzarESApi.Controllers
             return NotFound();
         }
 
-        [HttpPost("CrearJson")]
-        public IActionResult PostGenerarArchivo() {
 
-            return Ok(_palabraService.GuardarJsonInicial());
-            
-        }
 
     }
 }

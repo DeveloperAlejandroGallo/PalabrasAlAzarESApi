@@ -30,7 +30,6 @@ C:\Git\C#\PalabrasAlAzarESApi\obj\Debug\net6.0\refint\PalabrasAlAzarESApi.dll
 C:\Git\C#\PalabrasAlAzarESApi\obj\Debug\net6.0\PalabrasAlAzarESApi.pdb
 C:\Git\C#\PalabrasAlAzarESApi\obj\Debug\net6.0\PalabrasAlAzarESApi.genruntimeconfig.cache
 C:\Git\C#\PalabrasAlAzarESApi\obj\Debug\net6.0\ref\PalabrasAlAzarESApi.dll
-C:\Git\C#\PalabrasAlAzarESApi\bin\Debug\net6.0\palabrasalazar-cd9e7-firebase-adminsdk-v4nmu-7ef56d1f70.json
 C:\Git\C#\PalabrasAlAzarESApi\bin\Debug\net6.0\Google.Api.CommonProtos.dll
 C:\Git\C#\PalabrasAlAzarESApi\bin\Debug\net6.0\Google.Api.Gax.dll
 C:\Git\C#\PalabrasAlAzarESApi\bin\Debug\net6.0\Google.Api.Gax.Grpc.dll
