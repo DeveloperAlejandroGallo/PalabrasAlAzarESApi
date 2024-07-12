@@ -58,8 +58,8 @@ namespace PalabrasAlAzarESApi.Services
         //        if (docSnapShot.Exists)
         //        {
         //            Console.WriteLine(docSnapShot);
-        //            Dictionary<string, object> palabras = docSnapShot.ToDictionary();
-        //            string json = JsonConvert.SerializeObject(palabras);
+        //            Dictionary<string, object> palabrasNuevas = docSnapShot.ToDictionary();
+        //            string json = JsonConvert.SerializeObject(palabrasNuevas);
 
         //            Palabra nuevPalabra = JsonConvert.DeserializeObject<Palabra>(json)!;
 
@@ -71,9 +71,9 @@ namespace PalabrasAlAzarESApi.Services
 
         //}
 
-        public int  GuardarJsonInicial()
+        public int  GuardarJson(List<Palabra> palabrasNuevas)
         {
-            string jsonNuevasPalabras = JsonConvert.SerializeObject(PalabrasLista.palabrasNuevas);
+            string jsonNuevasPalabras = JsonConvert.SerializeObject(palabrasNuevas);
             File.WriteAllText(PALABRAS_DIR, jsonNuevasPalabras);
 
             return jsonNuevasPalabras.Length;
@@ -92,14 +92,19 @@ namespace PalabrasAlAzarESApi.Services
             return palabrasList;
         }
 
-        public Task<Palabra> PostPalabra(Palabra palabra)
+        public Palabra PostPalabra(Palabra palabra)
         {
             throw new NotImplementedException();
         }
 
-        public Task<Palabra> PutPalabra(Palabra palabra)
+        public Palabra PutPalabra(Palabra palabra)
         {
-            throw new NotImplementedException();
+            if (palabra.Texto != String.Empty && !palabrasList.Contains(palabra))
+            {
+                palabrasList.Add(palabra);
+            }
+
+            return palabra;
         }
         
 

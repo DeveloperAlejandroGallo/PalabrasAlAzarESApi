@@ -8,8 +8,8 @@ namespace PalabrasAlAzarESApi.Services
         Palabra? GetPalabra(int id);
         List<Palabra> GetPalabrasJson();
         //Task<List<Palabra>> GetPalabrasFirebase();
-        Task<Palabra> PostPalabra(Palabra palabra);
-        Task<Palabra> PutPalabra(Palabra palabra);
-        int GuardarJsonInicial();
+        Palabra PostPalabra(Palabra palabra);
+        Palabra PutPalabra(Palabra palabra);
+        int GuardarJson(List<Palabra> palabrasNuevas);
     }
 }
